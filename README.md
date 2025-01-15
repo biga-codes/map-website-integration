@@ -1,5 +1,4 @@
 # map-website-integration
-Got it! Below is a simplified **GitHub README** template for a project that **embeds a Google Map** in a website.
 
 ---
 
