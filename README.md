@@ -14,18 +14,10 @@ This project is useful for websites that want to display a map for a specific lo
 
 - Embeds a Google Map on a webpage.
 - Customizable map center and zoom level.
-- Easy to integrate with other webpage content.
+- Easy to integrate with other webpage content
+- uses Google Maps APIs
 
 ---
-
-## Demo
-
-You can view a live demo of the map integration by visiting the demo URL (if available).
-
----
-
-## Installation
-
 ### Prerequisites
 
 - A Google Cloud account to access the [Google Maps API](https://console.cloud.google.com/).
